@@ -1,6 +1,6 @@
-# Love Letters
+# Peer 2 Peer
 
-A minimalist, privacy-focused, open-source web app for exchanging and storing love letters.
+A minimalist, privacy-focused, open-source web app for exchanging and storing thoughts amongst peers.
 
 ## Features
 
@@ -20,7 +20,7 @@ A minimalist, privacy-focused, open-source web app for exchanging and storing lo
 
 2. Open `http://localhost:8080`
 3. Choose a shared secret with your loved one (for encryption)
-4. Write, send, and browse your private love letters
+4. Write, send, and browse your private notes.
 
 ## Philosophy
 
