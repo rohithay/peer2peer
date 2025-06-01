@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Vite build output
+dist/
+build/
+*.local
+
+# SvelteKit/Vite cache
+.svelte-kit/
+.vite/
+
+# Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Optional: logs
+logs/
+*.log
+
+# Optional: coverage reports
+coverage/
+
+# Optional: local development files
+*.sublime-workspace
+*.sublime-project
+.idea/
+*.swp
